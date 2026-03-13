@@ -1,0 +1,8 @@
+{
+  "name": "creative-writing",
+  "description": "Creative writing assistant that guides you through the writing process — from intent discovery to structured revision. Based on René Nekuda's 12-lesson course on writing craft fundamentals.",
+  "author": {
+    "name": "Pavel Kudrna",
+    "email": "pavel@kudrna.dev"
+  }
+}
